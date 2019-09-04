@@ -34,8 +34,13 @@
 - [Clustering with mean shift](scikit-learn/Clustering%20with%20mean%20shift.ipynb)
 - [Hyperparameter Tuning for Clustering Models](scikit-learn/Hyperparameter%20Tuning%20for%20Clustering%20Models.ipynb)
 
+### Reducing dimensions of
+
+- [Feature selection](scikit-learn/Feature%20selection.ipynb)
+- [Dictionary learning](scikit-learn/Dictionary%20learning.ipynb)
+- [Dimensionality Reduction with PCA](scikit-learn/Dimensionality%20Reduction%20with%20PCA.ipynb)
+
 ### Feature extraction
 
 - [Feature extraction](scikit-learn/Feature%20extraction.ipynb)
-- [Dimensionality Reduction with PCA](scikit-learn/Dimensionality%20Reduction%20with%20PCA.ipynb)
 - [Naive Bayes](scikit-learn/Naive%20Bayes.ipynb)

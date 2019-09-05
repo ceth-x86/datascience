@@ -38,6 +38,7 @@
 - [Ensemble learning techniques](scikit-learn/Ensemble%20learning%20techniques.ipynb)
 - [Bagging and pasting](scikit-learn/Bagging%20and%20pating.ipynb)
 - [Random forests and other ensemble methods](scikit-learn/Random%20forests%20and%20other%20ensemble%20methods.ipynb)
+- [Random forest regression and classification](scikit-learn/Random%20forest%20regression%20and%20classification.ipynb)
 
 ### Reducing dimensions
 

@@ -25,16 +25,20 @@
 - [Classification and regression with k-Nearest Neighbors](scikit-learn/Classification%20and%20regression%20with%20k-Nearest%20Neighbors.ipynb)
 - [Document classification with SVM](scikit-learn/Document%20classification%20with%20SVM.ipynb)
 - [Nonlinear Classification and Regression with Decision Trees](scikit-learn/Nonlinear%20Classification%20and%20Regression%20with%20Decision%20Trees.ipynb)
-- [Random forests and other ensemble methods](scikit-learn/Random%20forests%20and%20other%20ensemble%20methods.ipynb)
 
-### Clustering models
+#### Clustering models
 
 - [Simple KMeans Clustering](scikit-learn/Simple%20KMeans%20Clustering.ipynb)
 - [Mutliple Clustering Techniques](scikit-learn/Mutliple%20Clustering%20Techniques.ipynb)
 - [Clustering with mean shift](scikit-learn/Clustering%20with%20mean%20shift.ipynb)
 - [Hyperparameter Tuning for Clustering Models](scikit-learn/Hyperparameter%20Tuning%20for%20Clustering%20Models.ipynb)
 
-### Reducing dimensions of
+#### Ensemble methods
+
+- [Ensemble learning techniques](scikit-learn/Ensemble%20learning%20techniques.ipynb)
+- [Random forests and other ensemble methods](scikit-learn/Random%20forests%20and%20other%20ensemble%20methods.ipynb)
+
+### Reducing dimensions
 
 - [Feature selection](scikit-learn/Feature%20selection.ipynb)
 - [Dictionary learning](scikit-learn/Dictionary%20learning.ipynb)

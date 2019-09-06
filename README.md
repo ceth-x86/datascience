@@ -7,46 +7,50 @@
 
 ## Scikit-learn
 
-### Preprocessing
+### Pre-processing data
 
 - [Scaling numeric data, representing categorical data in numeric form](scikit-learn/Scaling%20numeric%20data.ipynb)
 
-### Regression
+### Supervised learning
+
+#### Regression
 
 - [Simple linear regression](scikit-learn/Simple%20Linear%20Regression.ipynb)
-- [Classification and regression with k-Nearest Neighbors](scikit-learn/Classification%20and%20regression%20with%20k-Nearest%20Neighbors.ipynb)
-- [Multiple Linear Regression](scikit-learn/Multiple%20Linear%20Regression.ipynb)
-- [Logistic Regression](scikit-learn/Logistic%20Regression.ipynb)
-- [Lasso and Ridge regression](scikit-learn/Lasso%20and%20Ridge%20regression.ipynb)
+- [Multiple linear regression](scikit-learn/Multiple%20Linear%20Regression.ipynb)
+- [Classification and regression with k-nearest neighbors](scikit-learn/Classification%20and%20regression%20with%20k-Nearest%20Neighbors.ipynb)
+- [Lasso/Ridge regression](scikit-learn/Lasso%20and%20Ridge%20regression.ipynb)
 - [Gradient boosting regression](scikit-learn/Gradient%20boosting%20regression.ipynb)
 
-### Classification
+#### Classification
 
-- [Classification and regression with k-Nearest Neighbors](scikit-learn/Classification%20and%20regression%20with%20k-Nearest%20Neighbors.ipynb)
+- [Classification and regression with k-nearest neighbors](scikit-learn/Classification%20and%20regression%20with%20k-Nearest%20Neighbors.ipynb)
+- [Logistic regression](scikit-learn/Logistic%20Regression.ipynb)
+- [Naive Bayes](scikit-learn/Naive%20Bayes.ipynb)
 - [Document classification with SVM](scikit-learn/Document%20classification%20with%20SVM.ipynb)
-- [Nonlinear Classification and Regression with Decision Trees](scikit-learn/Nonlinear%20Classification%20and%20Regression%20with%20Decision%20Trees.ipynb)
+- [Nonlinear classification and regression with decision trees](scikit-learn/Nonlinear%20Classification%20and%20Regression%20with%20Decision%20Trees.ipynb)
+
+### Unsupervised learning
 
 #### Clustering models
 
-- [Simple KMeans Clustering](scikit-learn/Simple%20KMeans%20Clustering.ipynb)
-- [Mutliple Clustering Techniques](scikit-learn/Mutliple%20Clustering%20Techniques.ipynb)
+- [Simple KMeans clustering](scikit-learn/Simple%20KMeans%20Clustering.ipynb)
+- [Mutliple clustering techniques](scikit-learn/Mutliple%20Clustering%20Techniques.ipynb)
 - [Clustering with mean shift](scikit-learn/Clustering%20with%20mean%20shift.ipynb)
-- [Hyperparameter Tuning for Clustering Models](scikit-learn/Hyperparameter%20Tuning%20for%20Clustering%20Models.ipynb)
+- [Hyperparameter tuning for clustering models](scikit-learn/Hyperparameter%20Tuning%20for%20Clustering%20Models.ipynb)
 
-#### Ensemble methods
+#### Reducing dimensions
+
+- [Feature selection](scikit-learn/Feature%20selection.ipynb)
+- [Dictionary learning](scikit-learn/Dictionary%20learning.ipynb)
+- [Dimensionality reduction with PCA](scikit-learn/Dimensionality%20Reduction%20with%20PCA.ipynb)
+
+### Ensemble methods
 
 - [Ensemble learning techniques](scikit-learn/Ensemble%20learning%20techniques.ipynb)
 - [Bagging and pasting](scikit-learn/Bagging%20and%20pating.ipynb)
 - [Random forests and other ensemble methods](scikit-learn/Random%20forests%20and%20other%20ensemble%20methods.ipynb)
 - [Random forest regression and classification](scikit-learn/Random%20forest%20regression%20and%20classification.ipynb)
 
-### Reducing dimensions
-
-- [Feature selection](scikit-learn/Feature%20selection.ipynb)
-- [Dictionary learning](scikit-learn/Dictionary%20learning.ipynb)
-- [Dimensionality Reduction with PCA](scikit-learn/Dimensionality%20Reduction%20with%20PCA.ipynb)
-
 ### Feature extraction
 
 - [Feature extraction](scikit-learn/Feature%20extraction.ipynb)
-- [Naive Bayes](scikit-learn/Naive%20Bayes.ipynb)

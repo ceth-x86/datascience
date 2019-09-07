@@ -3,6 +3,7 @@
 Это просто набор Jupyter Notebooks, которые я использовал при изучении Machine Learning.
 
 - [Matplotlib](matplotlib/Matplotlib.ipynb)
+- [Bokeh](bokeh/Interactive%20visualization%20using%20Bokeh.ipynb)
 - [Pandas](pandas/pandas.ipynb)
 
 ## Scikit-learn

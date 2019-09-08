@@ -1,6 +1,6 @@
 # Data science
 
-Это просто набор Jupyter Notebooks, которые я использовал при изучении Machine Learning.
+Jupyter Notebooks which I have been using in ML study.
 
 - [Matplotlib](matplotlib/Matplotlib.ipynb)
 - [Bokeh](bokeh/Interactive%20visualization%20using%20Bokeh.ipynb)
@@ -58,3 +58,9 @@
 ### Feature extraction
 
 - [Feature extraction](scikit-learn/Feature%20extraction.ipynb)
+
+### Neural Networks
+
+- [The perceptron](scikit-learn/The%20Perceptron.ipynb)
+- [Neural networks](scikit-learn/Neural%20Networks.ipynb)
+- [Regression and classification using neural networks](scikit-learn/Regression%20and%20classification%20using%20neural%20networks.ipynb)

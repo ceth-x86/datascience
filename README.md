@@ -65,3 +65,7 @@ Jupyter Notebooks which I have been using in ML study.
 - [Neural networks](scikit-learn/Neural%20Networks.ipynb)
 - [Regression and classification using neural networks](scikit-learn/Regression%20and%20classification%20using%20neural%20networks.ipynb)
 - [Text and image classification using neural networks](scikit-learn/Text%20and%20image%20classification%20using%20neural%20networks.ipynb)
+
+## PyTorch
+
+- [Working with tensors](pytorch/Working%20with%20tensors.ipynb)

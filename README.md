@@ -4,6 +4,7 @@ Jupyter Notebooks which I have been using in ML study.
 
 - [Matplotlib](matplotlib/Matplotlib.ipynb)
 - [Bokeh](bokeh/Interactive%20visualization%20using%20Bokeh.ipynb)
+- [Seaborn](seaborn)
 - [Pandas](pandas)
 
 ## Scikit-learn

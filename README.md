@@ -53,6 +53,7 @@ Jupyter Notebooks which I have been using in ML study.
 - [Random forests and other ensemble methods](scikit-learn/Random%20forests%20and%20other%20ensemble%20methods.ipynb)
 - [Random forest regression and classification](scikit-learn/Random%20forest%20regression%20and%20classification.ipynb)
 - [Gradient boosting](scikit-learn/Gradient%20boosting.ipynb)
+- [XGBoost](scikit-learn/XGBoost.ipynb)
 - [AdaBoost regression and classification](scikit-learn/AdaBoost%20regression%20and%20classification.ipynb)
 - [Stacking classification](scikit-learn/Stacking%20classification.ipynb)
 

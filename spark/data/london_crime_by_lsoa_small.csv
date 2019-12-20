@@ -1,0 +1,84 @@
+lsoa_code,borough,major_category,minor_category,value,year,month
+E01001116,Croydon,Burglary,Burglary in Other Buildings,0,2016,11
+E01001646,Greenwich,Violence Against the Person,Other violence,0,2016,11
+E01000677,Bromley,Violence Against the Person,Other violence,0,2015,5
+E01003774,Redbridge,Burglary,Burglary in Other Buildings,0,2016,3
+E01004563,Wandsworth,Robbery,Personal Property,0,2008,6
+E01001320,Ealing,Theft and Handling,Other Theft,0,2012,5
+E01001342,Ealing,Violence Against the Person,Offensive Weapon,0,2010,7
+E01002633,Hounslow,Robbery,Personal Property,0,2013,4
+E01003496,Newham,Criminal Damage,Criminal Damage To Other Building,0,2013,9
+E01004177,Sutton,Theft and Handling,Theft/Taking of Pedal Cycle,1,2016,8
+E01001985,Haringey,Theft and Handling,Motor Vehicle Interference & Tampering,0,2013,12
+E01003076,Lambeth,Violence Against the Person,Other violence,0,2015,4
+E01003852,Richmond upon Thames,Robbery,Personal Property,0,2014,1
+E01004547,Wandsworth,Violence Against the Person,Offensive Weapon,0,2011,10
+E01002398,Hillingdon,Theft and Handling,Theft/Taking Of Motor Vehicle,0,2016,2
+E01002358,Havering,Violence Against the Person,Wounding/GBH,0,2012,2
+E01000086,Barking and Dagenham,Theft and Handling,Other Theft Person,1,2009,5
+E01003708,Redbridge,Violence Against the Person,Common Assault,0,2009,6
+E01002945,Kingston upon Thames,Theft and Handling,Theft From Shops,0,2016,11
+E01004195,Sutton,Drugs,Possession Of Drugs,0,2009,10
+E01003651,Redbridge,Violence Against the Person,Harassment,0,2012,2
+E01004660,Westminster,Theft and Handling,Handling Stolen Goods,0,2012,2
+E01001786,Hackney,Criminal Damage,Criminal Damage To Dwelling,0,2011,6
+E01001432,Enfield,Drugs,Possession Of Drugs,0,2011,5
+E01001301,Ealing,Theft and Handling,Other Theft Person,2,2012,1
+E01001794,Hackney,Violence Against the Person,Harassment,1,2013,2
+E01002195,Harrow,Theft and Handling,Theft/Taking Of Motor Vehicle,0,2012,3
+E01001201,Ealing,Violence Against the Person,Other violence,0,2012,11
+E01001972,Haringey,Violence Against the Person,Wounding/GBH,0,2015,12
+E01003325,Lewisham,Violence Against the Person,Common Assault,0,2016,2
+E01001317,Ealing,Burglary,Burglary in a Dwelling,0,2013,9
+E01002634,Hounslow,Criminal Damage,Criminal Damage To Motor Vehicle,0,2015,2
+E01000733,Bromley,Criminal Damage,Criminal Damage To Motor Vehicle,1,2016,4
+E01032741,Havering,Violence Against the Person,Harassment,0,2008,1
+E01002533,Hillingdon,Violence Against the Person,Offensive Weapon,0,2008,10
+E01000503,Brent,Theft and Handling,Theft From Shops,0,2010,1
+E01002006,Haringey,Criminal Damage,Criminal Damage To Other Building,0,2016,12
+E01002595,Hounslow,Criminal Damage,Other Criminal Damage,0,2010,12
+E01003067,Lambeth,Theft and Handling,Handling Stolen Goods,0,2010,8
+E01003947,Southwark,Drugs,Possession Of Drugs,0,2015,3
+E01002360,Havering,Fraud or Forgery,Counted per Victim,0,2015,11
+E01003583,Newham,Violence Against the Person,Harassment,3,2009,5
+E01001029,Croydon,Drugs,Possession Of Drugs,0,2010,12
+E01001193,Croydon,Theft and Handling,Other Theft,1,2014,5
+E01000280,Barnet,Theft and Handling,Theft/Taking Of Motor Vehicle,0,2014,3
+E01004436,Waltham Forest,Other Notifiable Offences,Going Equipped,0,2015,2
+E01004678,Westminster,Criminal Damage,Other Criminal Damage,0,2008,11
+E01003064,Lambeth,Theft and Handling,Theft From Shops,0,2013,7
+E01003238,Lewisham,Violence Against the Person,Other violence,0,2009,3
+E01000713,Bromley,Violence Against the Person,Offensive Weapon,0,2009,12
+E01001206,Ealing,Robbery,Personal Property,0,2015,7
+E01000606,Brent,Theft and Handling,Motor Vehicle Interference & Tampering,0,2015,9
+E01002022,Haringey,Theft and Handling,Theft/Taking Of Motor Vehicle,0,2010,3
+E01000869,Camden,Burglary,Burglary in Other Buildings,0,2013,3
+E01000455,Bexley,Theft and Handling,Theft/Taking Of Motor Vehicle,1,2008,5
+E01001171,Croydon,Violence Against the Person,Offensive Weapon,0,2012,12
+E01003211,Lewisham,Theft and Handling,Other Theft Person,0,2009,12
+E01033083,Hounslow,Violence Against the Person,Wounding/GBH,2,2015,8
+E01000893,Camden,Theft and Handling,Theft/Taking Of Motor Vehicle,0,2012,9
+E01002858,Kensington and Chelsea,Fraud or Forgery,Counted per Victim,0,2009,12
+E01002678,Hounslow,Other Notifiable Offences,Going Equipped,0,2008,1
+E01003191,Lewisham,Theft and Handling,Theft/Taking Of Motor Vehicle,0,2008,4
+E01002977,Kingston upon Thames,Theft and Handling,Theft/Taking Of Motor Vehicle,1,2012,3
+E01000510,Brent,Theft and Handling,Theft/Taking of Pedal Cycle,0,2014,9
+E01003989,Southwark,Theft and Handling,Theft From Shops,4,2016,8
+E01002122,Harrow,Fraud or Forgery,Other Fraud & Forgery,0,2015,2
+E01000808,Bromley,Robbery,Personal Property,0,2014,6
+E01003019,Lambeth,Violence Against the Person,Assault with Injury,2,2008,5
+E01004346,Waltham Forest,Theft and Handling,Motor Vehicle Interference & Tampering,0,2016,3
+E01002772,Islington,Drugs,Drug Trafficking,0,2012,11
+E01004048,Southwark,Violence Against the Person,Common Assault,0,2008,8
+E01003547,Newham,Criminal Damage,Criminal Damage To Dwelling,0,2015,1
+E01000172,Barnet,Violence Against the Person,Other violence,0,2015,12
+E01000586,Brent,Fraud or Forgery,Counted per Victim,0,2009,10
+E01032513,Westminster,Violence Against the Person,Wounding/GBH,0,2009,9
+E01001600,Greenwich,Burglary,Burglary in Other Buildings,0,2016,11
+E01003744,Redbridge,Theft and Handling,Other Theft Person,0,2008,3
+E01001787,Hackney,Criminal Damage,Other Criminal Damage,0,2011,7
+E01002013,Haringey,Robbery,Personal Property,2,2011,8
+E01004165,Sutton,Robbery,Personal Property,1,2008,1
+E01003738,Redbridge,Violence Against the Person,Other violence,0,2011,2
+E01001738,Hackney,Violence Against the Person,Wounding/GBH,0,2013,12
+E01004254,Tower Hamlets,Drugs,Other Drugs,0,2008,3

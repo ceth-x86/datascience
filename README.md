@@ -76,3 +76,7 @@ Jupyter Notebooks which I have been using in ML study.
 
 - [Working with tensors](pytorch/Working%20with%20tensors.ipynb)
 - [Working with gradients (linear model)](pytorch/Working%20with%20gradients%20using%20the%20Autograd%20library.ipynb)
+
+### Spark
+
+- [Spark](spark/spark.ipynb)

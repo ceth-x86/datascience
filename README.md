@@ -7,6 +7,10 @@ Jupyter Notebooks which I have been using in ML study.
 - [Seaborn](seaborn)
 - [Pandas](pandas)
 
+## Data Science
+
+- [Finding relationships in data](datascience/Finding%20relationships%20in%20data.ipynb)
+
 ## Scikit-learn
 
 ### Pre-processing data

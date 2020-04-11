@@ -13,6 +13,7 @@ Jupyter Notebooks which I have been using in ML study.
 
 ## Scikit-learn
 
+
 ### Pre-processing data
 
 - [Scaling numeric data, representing categorical data in numeric form](scikit-learn/Scaling%20numeric%20data.ipynb)
